@@ -263,3 +263,4 @@ GitHub.sublime-settings
 .pytest_cache/
 .ipython/
 schema/*.json
+venv
